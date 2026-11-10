@@ -25,31 +25,31 @@ Step 1: Starting the Lab
 
 Started Kali Linux and Metasploitable 2 in VMware.
 
-📸 INSERT SCREENSHOT 1 HERE – VMware showing Kali Linux and Metasploitable 2 running.
+<img width="634" height="170" alt="Screenshot 2026-10-26 at 8 45 24 AM" src="https://github.com/user-attachments/assets/e111ddd7-ac68-4cfb-9053-256f4ee4225c" /> 1 HERE – VMware showing Kali Linux and Metasploitable 2 running.
 
 Step 2: Identifying the Target IP
 
 Identified the IP address of the target machine.
 
-📸 INSERT SCREENSHOT 2 HERE – Terminal showing the target IP address.
+<img width="924" height="288" alt="Screenshot 2026-10-26 at 8 47 38 AM" src="https://github.com/user-attachments/assets/849eac77-8ff2-425d-a010-082ae514c1d8" /> 2 HERE – Terminal showing the target IP address.
 
 Step 3: Scanning the Target
 
 Performed a network scan to identify open ports and the FTP service.
 
-📸 INSERT SCREENSHOT 3 HERE – Nmap scan showing FTP port 21.
+<img width="649" height="258" alt="Screenshot 2026-10-26 at 8 48 30 AM" src="https://github.com/user-attachments/assets/7bd3220d-f392-4623-b262-bd8faa8937b1" /> 3 HERE – Nmap scan showing FTP port 21.
 
 Step 4: Using Metasploit
 
 Opened Metasploit Framework and selected the appropriate FTP vulnerability assessment module.
 
-📸 INSERT SCREENSHOT 4 HERE – Metasploit terminal showing the selected module and configuration.
+<img width="643" height="283" alt="Screenshot 2026-10-26 at 8 49 52 AM" src="https://github.com/user-attachments/assets/e6c0a51d-6cc8-4a79-9198-dffeff14eb35" /> 4 HERE – Metasploit terminal showing the selected module and configuration.
 
 Step 5: Final Assessment
 
 Documented the outcome of the FTP vulnerability assessment.
 
-📸 INSERT SCREENSHOT 5 HERE – Final Metasploit assessment result.
+<img width="642" height="214" alt="Screenshot 2026-10-27 at 2 44 47 AM" src="https://github.com/user-attachments/assets/c0ea23a1-03b2-4b73-b8d8-dfa280dd36b2" /> 5 HERE – Final Metasploit assessment result.
 
 5. Results
 
